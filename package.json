@@ -13,15 +13,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "entities": "^4.5.0",
-    "ink": "^4.3.0",
+    "entities": "^6.0.0",
+    "ink": "^5.1.0",
     "ink-spinner": "^5.0.0",
-    "react": "^18.2.0"
+    "react": "^19.0.0"
   },
   "devDependencies": {
     "@tsconfig/node18": "^18.2.1",
     "@types/node": "^20.10.7",
-    "@types/react": "^18.2.47",
+    "@types/react": "^19.0.2",
     "prettier": "^3.1.1",
     "typescript": "^5.3.3"
   }
