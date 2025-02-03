@@ -20,8 +20,8 @@
   },
   "devDependencies": {
     "@tsconfig/node18": "^18.2.4",
-    "@types/node": "^22.10.7",
-    "@types/react": "^19.0.7",
+    "@types/node": "^22.13.0",
+    "@types/react": "^19.0.8",
     "prettier": "^3.4.2",
     "typescript": "^5.7.3"
   }
