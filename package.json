@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "entities": "^6.0.0",
-    "ink": "^5.1.0",
+    "ink": "^5.1.1",
     "ink-spinner": "^5.0.0",
     "react": "^19.0.0"
   },
